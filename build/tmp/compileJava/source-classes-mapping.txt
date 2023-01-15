@@ -1,0 +1,26 @@
+br/com/siecola/aws_project02/config/JmsConfig.java
+ br.com.siecola.aws_project02.config.JmsConfig
+br/com/siecola/aws_project02/enums/EventType.java
+ br.com.siecola.aws_project02.enums.EventType
+br/com/siecola/aws_project02/config/local/JmsConfigLocal.java
+ br.com.siecola.aws_project02.config.local.JmsConfigLocal
+br/com/siecola/aws_project02/models/ProductEvent.java
+ br.com.siecola.aws_project02.models.ProductEvent
+br/com/siecola/aws_project02/models/Envelope.java
+ br.com.siecola.aws_project02.models.Envelope
+br/com/siecola/aws_project02/models/SnsMessage.java
+ br.com.siecola.aws_project02.models.SnsMessage
+br/com/siecola/aws_project02/AwsProject02Application.java
+ br.com.siecola.aws_project02.AwsProject02Application
+br/com/siecola/aws_project02/repositories/ProducEventsLogRepository.java
+ br.com.siecola.aws_project02.repositories.ProducEventsLogRepository
+br/com/siecola/aws_project02/config/DynamoDbConfig.java
+ br.com.siecola.aws_project02.config.DynamoDbConfig
+br/com/siecola/aws_project02/models/ProductEventLog.java
+ br.com.siecola.aws_project02.models.ProductEventLog
+br/com/siecola/aws_project02/controllers/ProductEventLogController.java
+ br.com.siecola.aws_project02.controllers.ProductEventLogController
+br/com/siecola/aws_project02/services/ProductEventConsumer.java
+ br.com.siecola.aws_project02.services.ProductEventConsumer
+br/com/siecola/aws_project02/models/ProductEventLogDTO.java
+ br.com.siecola.aws_project02.models.ProductEventLogDTO
